@@ -4,7 +4,7 @@ import styles from "./menu.module.css"
 const Menu = () => {
   return (
     <div className={styles.container}> 
-      navba
+      <h2>menu</h2>
     </div>
   )
 }
